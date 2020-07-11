@@ -1,10 +1,10 @@
 # ML-Regression
-Problem regarding multiple linear regression
+The problem regarding multiple linear regression
 
-## install necessary liabraries
+## install necessary libraries
 
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install seaborn
+* ```pip install numpy```
+* ```pip install pandas```
+* ```pip install matplotlib```
+* ```pip install seaborn```
 
